@@ -54,6 +54,7 @@ body{
     box-sizing: border-box;
     border: 2px solid lightgray;
     margin-top: 5px;
+    cursor: pointer;
 }
 
 #submit{
